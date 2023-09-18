@@ -1,0 +1,24 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\bin\Debug\Patient Records Management System.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\bin\Debug\Patient Records Management System.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\bin\Debug\Patient Records Management System.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\obj\Debug\Patient Records Management System.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\obj\Debug\Patient Records Management System.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\obj\Debug\Patient Records Management System.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Patient Records Management System\obj\Debug\Patient Records Management System.pdb
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient Records Management System.exe
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient Records Management System.xml
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient Records Management System.pdb
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\bin\Debug\Patient Records Management System.exe
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\bin\Debug\Patient Records Management System.pdb
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\bin\Debug\Patient Records Management System.xml
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Form1.resources
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Form2.resources
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Resources.resources
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient Records Management System.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Form3.resources
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Form4.resources
+C:\Users\Administrator\Desktop\Patient Records Management System\Patient Records Management System\obj\Debug\Patient_Records_Management_System.Form5.resources
